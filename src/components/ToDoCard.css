@@ -1,0 +1,16 @@
+.Card{
+    background-color: white;
+    padding: 30px 30px 30px 30px;
+    margin: 30px 30px 30px 30px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.btnDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+/* .btnDiv{
+
+} */
+.ListText{
+    text-align: left;
+}
